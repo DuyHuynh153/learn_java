@@ -10,6 +10,7 @@ public class Main {
         String firstName = sc.next();
 
         System.out.println("your name is " + firstName);
+        System.out.println("huỳnh lâm duy");
 
 
     }
