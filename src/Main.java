@@ -12,6 +12,8 @@ public class Main {
         System.out.println("your name is " + firstName);
         System.out.println("huỳnh lâm duy");
 
+        System.out.println("change 4 change");
+
 
     }
 }
